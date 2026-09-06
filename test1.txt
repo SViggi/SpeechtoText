@@ -1,0 +1,11 @@
+Lab Meeting Transcript - Robotics Perception Group
+Date: 2026-09-01
+
+Sai: I finished testing the OpenCV pose estimation pipeline on the Dobot arm. Accuracy dropped when lighting changed.
+Advisor: Can we fix that with better calibration, or do we need a different camera?
+Sai: I think a calibration pass at the start of each session should fix most of it. I'll test that this week.
+Advisor: Okay, do that. Also, let's revisit the diffusion model checkpoint - we stopped at 50k steps due to disk space. Can we get more storage?
+Sai: I'll email IT about expanding the SOL storage quota.
+Advisor: Good. Last thing - the IJRASET paper revisions are due in two weeks. Sai, please send me a draft by Friday.
+Sai: Will do.
+Advisor: Great, let's reconvene next Monday.
